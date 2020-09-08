@@ -1,0 +1,216 @@
+body{
+margin: 0;
+background-color:black;
+
+}
+.header{
+background-color:black;
+height: 700px;
+}
+
+.log-in-button{
+border:1px solid red;
+width:80px;
+height: 35px;
+background-color: red;
+border-radius: 2%;
+position: relative;
+left: 1300px;
+bottom:110px;
+cursor: pointer;
+}
+
+.items{
+color:white;
+padding:11%;
+}
+
+.title{
+font-size: 50px;
+font-weight: bold;
+}
+.main-container{
+color: white;
+text-align: center;
+}
+
+.email{
+border:1px solid white;
+width:400px;
+height:60px;
+background-color: white;
+}
+
+input[type=email]{
+border:0;
+text-align: left;
+float: left;
+outline:none;
+width:460px;
+height:60px;
+}
+.sub-title-box{
+
+
+margin-top:2%;
+}
+.sub-title{
+font-size:30px;
+}
+
+.sub-title2{
+font-size: 20px;
+margin-top:2%;
+}
+
+.email-box{
+margin-left: 370px;
+margin-top:2%;
+}
+
+.submit-button-box{
+border:1px solid red;
+height: 60px ;
+width: 280px;
+background-color:red;
+margin-left: 838px;
+position: relative;
+bottom:60px;
+}
+
+.submit{
+padding:8%;
+cursor: pointer;
+}
+
+p2{
+margin-left:800px;
+}
+
+.contents-infor-box1{
+background-color:black;
+}
+
+.title{
+color:white;
+}
+
+.subitems{
+color:white;
+}
+
+.contents{
+position: relative;
+margin-left:200px;
+bottom:230px;
+}
+
+.subitems{
+font-size: 25px;
+position: relative;
+margin-left:200px;
+bottom:200px;
+}
+
+.contents-infor-box2{
+background-color: black;
+color:white;
+
+}
+
+
+.title2{
+font-size:50px;
+margin-left: 720px;
+position: relative;
+bottom:180px;
+}
+
+.subitems2{
+font-size:20px;
+
+
+}
+
+p3{
+margin-left:120px;
+}
+
+.subitems2{
+font-size: 25px;
+position: relative;
+margin-left:720px;
+bottom:150px;
+
+}
+
+p4{
+margin-left:800px;
+}
+
+.contents-infor-box3{
+background-color:black;
+color:white;
+}
+
+.title3{
+font-size: 50px;
+margin-left:200px;
+position: relative;
+bottom: 210px;
+}
+
+.subitems3{
+margin-left:200px;
+position: relative;
+bottom:190px;
+font-size:25px;
+}
+
+.under-box{
+background-color:black;
+color:white;
+}
+
+.question-title{
+font-size:60px;
+font-weight: bold;
+text-align: center;
+}
+
+.box-items{
+border:1px solid #303030;
+background-color: #303030;
+width:715.5px;
+height:58px ;
+margin:1%;
+padding:1%;
+line-height: 60px;
+font-size:20px;
+}
+
+.box{
+margin-left:360px;
+}
+
+.under-nav-container{
+color:white;
+background-color:black;
+
+}
+
+.contact-title{
+text-align: center;
+margin-top:7%;
+}
+
+.under-nav-box{
+margin:5%;
+display: flex;
+justify-content: center;
+
+}
+
+.nav-items{
+padding:1%;
+}

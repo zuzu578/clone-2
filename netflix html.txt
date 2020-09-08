@@ -1,0 +1,242 @@
+
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+
+    <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width">
+
+    <title>repl.it</title>
+
+    <link href="style.css" rel="stylesheet" type="text/css" />
+
+  </head>
+
+  <body>
+
+    <div class="header">
+
+    <div class="container-box">
+
+    <p1><img src="https://content.surfit.io/thumbs/image/wJW2K/w4VbJ/10552564055eb8333117a06.png/cover-center-2x.webp"width="200px" height="140px"></p1>
+
+    <div class="log-in-button">
+
+      <div class="items">로그인</div>
+
+    </div>
+
+    </div>
+
+    
+
+    <div class="main-container">
+
+      <div class="title-box">
+
+        <div class="title">영화, TV 프로그램을<br/> 무제한으로.</div>
+
+      </div>
+
+      <div class="sub-title-box">
+
+        <div class="sub-title">다양한 디바이스에서 시청하세요. 언제든 해지하실 수<br/> 있습니다.</div>
+
+      </div>
+
+      <div class="sub-title-box2">
+
+        <div class="sub-title2">시청할 준비가 되셨나요? 멤버십을 등록하거나 재시작하려면 이메일 주소를 입력하세요.</div>
+
+      </div>
+
+     
+
+     <div class="email-box">
+
+       <div class="email">
+
+         <input type="email" placeholder="email">
+
+       </div>
+
+     </div>
+
+     
+
+     <div class="submit-button-box">
+
+       <div class="submit">
+
+         30일 무료 이용 
+
+       </div>
+
+     </div>
+
+    </div>
+
+    </div>
+
+ 
+
+  <div class="contents-infor-box1">
+
+    <p2><img src="https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/tv.png"width="400"height="300"></p2>
+
+   <div class="contents">
+
+     <div class="title">TV로 즐기세요.</div>
+
+   </div>
+
+     <div class="subitems">스마트 TV, PlayStation, Xbox, Chromecast,<br/> Apple TV, 블루레이 플레이어  다양한</br>디바이스에서 시청하세요.</div>
+
+     </div>
+
+     </div>
+
+     
+
+     </div>
+
+     
+
+ 
+
+ 
+
+     <div class="contents-infor-box2">
+
+       <p3><img src="https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/mobile-0819.jpg"width="400" height="300"></p3>
+
+    <div class="contents2">
+
+      <div class="title2">즐겨 보는 콘텐츠를 저장해<br/> 오프라인으로 시청하세요.
+
+    </div>
+
+    <div class="subitems2">간편하게 저장하고 빈틈없이 즐겨보세요.</div>
+
+     </div>
+
+     </div>
+
+     
+
+ 
+
+     <div class="contents-infor-box3">
+
+       <p4><img src="https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/device-pile.png"width="400" height="300"></p4>
+
+       
+
+       <div class="contents3">
+
+       <div class="title3">다양한 디바이스에서<br/> 시청하세요.</div>
+
+       <div class="subitems3">각종 영화와 TV 프로그램을 스마트폰, 태블릿, 노트북,<br/> TV에서 무제한으로 스트리밍하세요. 추가 요금이 전혀<br/> 없습니다.
+
+       </div>
+
+       </div>
+
+     </div>
+
+    
+
+    <div class="under-box">
+
+    <div class="question-box">
+
+      <div class="question-title">자주묻는질문</div>
+
+    </div>
+
+    <div class="box">
+
+      <div class="box-items">넷플릭스란 무엇인가요?</div>
+
+      <div class="box-items">넷플릭스 요금은 얼마인가요?</div>
+
+      <div class="box-items">어디에서 시청할 수 있나요?</div>
+
+      <div class="box-items">멤버십을 해지하려면 어떻게 하나요?</div>
+
+      <div class="box-items">넷플릭스에서 어떤 콘텐츠를 시청할 수 있나요?</div>
+
+      <div class="box-items">아이들이 Netflix를 봐도 좋을까요?</div>
+
+      <div class="box-items">무료 이용에 관해 자세히 알 수 있을까요?</div>
+
+    </div>
+
+    </div>
+
+ 
+
+    <div class="under-nav-container">
+
+      <div class="contact-title">
+
+       질문이 있으신가요? 문의 전화:"00-308-321-0058"
+
+      </div>
+
+      <div class="under-nav-box">
+
+        <div class="nav-items">자주 묻는 질문</div>
+
+        <div class="nav-items">고객센터</div>
+
+        <div class="nav-items">계정</div>
+
+        <div class="nav-items">미디어 센터</div>
+
+        <div class="nav-items">투자정보(IR)</div>
+
+        <div class="nav-items">입사 정보</div>
+
+        <div class="nav-items">Netflix 지원 디바이스</div>
+
+        <div class="nav-items">이용 약관</div>
+
+        <div class="nav-items">개인정보</div>
+
+        <div class="nav-items">쿠키 설정</div>
+
+        <div class="nav-items">회사 정보</div>
+
+        <div class="nav-items">문의하기</div>
+
+        <div class="nav-items">속도 테스트</div>
+
+        <div class="nav-items">법적 고지</div>
+
+        <div class="nav-items">Netflix 오리지널</div> 
+
+      </div>                        
+
+ 
+
+ 
+
+ 
+
+    
+
+ 
+
+     
+
+    
+
+    <script src="script.js"></script>
+
+  </body>
+
+</html>

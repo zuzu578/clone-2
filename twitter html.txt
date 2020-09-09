@@ -1,0 +1,174 @@
+
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+
+    <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width">
+
+    <title>repl.it</title>
+
+    <link href="style.css" rel="stylesheet" type="text/css" />
+
+  </head>
+
+  <body>
+
+   
+
+    </div>
+
+    
+
+    <div class="log-in-form-box">
+
+      <div class="id-box">
+
+      <div class="id-title">휴대폰, 이메일, 사용자 아이디</div>
+
+      <form action="https://naver.com">
+
+        <input type="text">
+
+      </form>
+
+      </div>
+
+      <div class="pw-box">
+
+    <div class="pw-title">비밀번호</div>
+
+    <form action="#">
+
+      <input type="password">
+
+    </form>
+
+      </div>
+
+    </div>
+
+  
+
+      
+
+    
+
+ 
+
+    <div class="log-in-button">
+
+      <div class="log-in-items">로그인</div>
+
+    </div>
+
+    
+
+      <p1><img src="https://upload.wikimedia.org/wikipedia/ko/thumb/9/9e/%ED%8A%B8%EC%9C%84%ED%84%B0_%EB%A1%9C%EA%B3%A0_%282012%29.svg/344px-%ED%8A%B8%EC%9C%84%ED%84%B0_%EB%A1%9C%EA%B3%A0_%282012%29.svg.png"width="40" height="32"></p1>
+
+    
+
+    <div class="main-title-box">
+
+     <div class="title">지금 전 세계에서 무슨 일이 일어<br/>나고 있는지 알아보세요</div>
+
+    </div>
+
+     <div class="left-section">
+
+      <div class="left-section-items">
+
+        관심사를 팔로우하세요.
+
+      </div>
+
+      <div class="left-section-items">
+
+        사람들이 무엇에 대해 이야기하고 있는지 알아<br/>보세요.
+
+ 
+
+      </div>
+
+      <div class="left-section-items">
+
+        대화에 참여하세요.
+
+      </div>
+
+ 
+
+    <div class="sub-title-box">
+
+      <div class="sub-title">오늘 트위터에 가입하세요.</div>
+
+    </div>
+
+ 
+
+    <div class="account-box">
+
+      <div class="sign-up-box">
+
+      <div class="sign-up">가입하기</div>
+
+      </div>
+
+      <div class="log-in-box">
+
+      <div class="log-in">로그인</div>
+
+      </div>
+
+ 
+
+ 
+
+    </div>
+
+    </div>
+
+    <div class="under-nav-container">
+
+      <div class="items items1">소개</div>
+
+      <div class="items items2">고객센터</div>
+
+      <div class="items items3">이용약관</div>
+
+      <div class="items items4">개인정보 처리방침</div>
+
+      <div class="items items5">쿠키</div>
+
+      <div class="items items6">광고 정보</div>
+
+      <div class="items items7">블로그</div>
+
+      <div class="items items8">상태</div>
+
+      <div class="items items9">채용</div>
+
+      <div class="items items10">브랜드</div>
+
+      <div class="items items11">광고</div>
+
+      <div class="items items12">마케팅</div>
+
+      <div class="items items13">비즈니스</div>
+
+      <div class="items items14">개발자</div>
+
+      <div class="items items15">디렉터리</div>
+
+      <div class="items items16">설정</div>
+
+      <div class="items items17">© 2020 Twitter, Inc.</div>
+
+      </div>
+
+  </body>
+
+</html>

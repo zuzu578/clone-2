@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>repl.it</title>
+<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div class="nav-container">
+<p1><img src="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2020%2F04%2Fwatcha-play-original-series-plan-1-1.jpg?q=90&w=1400&cbr=1&fit=max"width="160" height="120"></p1>
+<div class="nav-items">
+<div class="sign-up-box">
+회원가입
+</div>
+</div>
+
+
+<div class="main-contents-box">
+<div class="Login-box">
+<div class="Login-items">로그인</div>
+</div>
+<div class="Forgot-password-box">
+<div class="Forgot-items"><a href="https://play.watcha.net/find_password">비밀번호를 잊어버리셨나요?</a></div>
+</div>
+
+<div class="input-box1">
+<input type="email" placeholder="이메일(example@gmail.com)">
+</div>
+<div class="input-box2">
+<input type="password" placeholder="비밀번호">
+</div>
+
+<div class="button-box">
+<div class="button-items">
+<a href="https://play.watcha.net/">로그인</a>
+</div>
+
+<div class="Sns-login">
+<div class="sns-items"><a href="https://accounts.google.com/o/oauth2/auth/oauthchooseaccount?redirect_uri=storagerelay%3A%2F%2Fhttps%2Fplay.watcha.net%3Fid%3Dauth99360&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm&client_id=92194208146-gksglleq2nthlsori3o1frjfjtiujf1f.apps.googleusercontent.com&ss_domain=https%3A%2F%2Fplay.watcha.net&fetch_basic_profile=true&gsiwebsdk=2&flowName=GeneralOAuthFlow">다른방법으로 로그인하기</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="under-information">
+<div class="under-items">
+고객센터(이용 및 결제 문의) cs@watcha.co.kr • 02-515-9985 (유료) / 제휴 및 대외 협력 contact@watcha.com • 070-7554-9696 (유료)
+</div>
+
+
+<div class="under-information1">
+<div class="under-items1">
+주식회사 왓챠 / 대표 박태훈 / 서울특별시 서초구 강남대로 343 신덕빌딩 3층 / 사업자등록번호 211-88-66013 / 통신판매업 신고번호 제 2019-서울서초-0965호 / 대표번호 02-515-9985 / 개인정보 처리 방침
+</div>
+</div>
+</div>
+
+
+
+</body>
+
+
+
+
+
+
+
+</html>
+
+
